@@ -1,4 +1,4 @@
-#include <Arduino.h> 
+#include <Arduino.h>
 #include <LiquidCrystal.h>
 
 // Inicjalizacja obiektu klasy LiquidCrystal:
